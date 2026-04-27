@@ -5,11 +5,12 @@ Página de inscrição responsiva para evento fictício, desenvolvida utilizando
 ## Estrutura das pastas
 
 ```
-evento-inscricao/
-├── index.php   → página principal do evento
-├── style.css   → estilo (bootstrap customizado)
+Desafio-de-Dev-GVA-main/
 ├── app.js      → interações com JavaScript puro
+├── index.php   → página principal do evento
 ├── logo-gva.png → imagem do logotipo da gva para inserção no index
+├── style.css   → estilo (bootstrap customizado)
+├── README.md   → este arquivo de detalhes e instruções
 ```
 
 ---
@@ -67,13 +68,13 @@ evento-inscricao/
    **Windows:**
 
    ```
-   cd C:\<PastaDestino>\evento-inscricao
+   cd C:\<PastaDestino>\Desafio-de-Dev-GVA-main
    ```
 
    **Mac/Linux:**
 
    ```
-   cd ~/<PastaDestino>/evento-inscricao
+   cd ~/<PastaDestino>/Desafio-de-Dev-GVA-main
    ```
 
 2. Suba o servidor:
