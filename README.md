@@ -5,7 +5,7 @@ Página de inscrição responsiva para evento fictício, desenvolvida utilizando
 ## Estrutura das pastas
 
 ```
-event-inscricao/
+evento-inscricao/
 ├── index.php   → página principal do evento
 ├── style.css   → estilo (bootstrap customizado)
 ├── app.js      → interações com JavaScript puro
@@ -67,13 +67,13 @@ event-inscricao/
    **Windows:**
 
    ```
-   cd C:\<PastaDestino>\event-inscricao
+   cd C:\<PastaDestino>\evento-inscricao
    ```
 
    **Mac/Linux:**
 
    ```
-   cd ~/<PastaDestino>/event-inscricao
+   cd ~/<PastaDestino>/evento-inscricao
    ```
 
 2. Suba o servidor:
