@@ -1,9 +1,6 @@
-# Página de Inscrição em Evento
-Desafio proposto: desenvolver uma página responsiva de inscrição para um evento, utilizando PHP, HTML5, CSS3, Bootstrap 5 e JavaScript puro, sem envio real do formulário.
-
 # TechDay 2026 — Página de Inscrição
 
-Página de inscrição para evento fictício desenvolvida para desafio de Estágio em Desenvolvimento de Software da GVA.
+Página de inscrição responsiva para evento fictício, desenvolvida utilizando PHP, HTML5, CSS3, Bootstrap 5 e JavaScript puro, e sem envio real do formulário.
 
 ## Estrutura das pastas
 
