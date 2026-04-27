@@ -9,6 +9,7 @@ event-inscricao/
 ├── index.php   → página principal do evento
 ├── style.css   → estilo (bootstrap customizado)
 ├── app.js      → interações com JavaScript puro
+├── logo-gva.png → imagem do logotipo da gva para inserção no index
 ```
 
 ---
